@@ -8,4 +8,5 @@ green
 yellow
 blue 
 red
-These are the colors of the rainbow.
+These are the colors of the .
+but i D

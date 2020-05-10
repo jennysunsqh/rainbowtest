@@ -6,6 +6,7 @@ orange
 unicorn
 green
 yellow
+pink
 blue 
 red
 These are the colors of the .
